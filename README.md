@@ -1,4 +1,4 @@
-# A2_CSCI4140
+# A3_CSCI4140
 
 Project needs python Flask, as well as flask_mysqldb to run
 
